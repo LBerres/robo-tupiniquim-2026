@@ -24,5 +24,5 @@ Após mover o robô, o programa deve retornar sua posição final (X Y) e sua or
 Dica:
 Para quebrar o comando em um array de instruções separadas utilize o método ToCharArray()
 string comando = "EMEMEMEMM";
-char[] instrucoes = comando.ToCharArray();
+char[] instrucoes = comando.ToCharArray()
 */
