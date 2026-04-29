@@ -1,0 +1,15 @@
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\bin\Debug\net10.0\RoboTupiniquim.ConsoleApp.exe
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\bin\Debug\net10.0\RoboTupiniquim.ConsoleApp.deps.json
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\bin\Debug\net10.0\RoboTupiniquim.ConsoleApp.runtimeconfig.json
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\bin\Debug\net10.0\RoboTupiniquim.ConsoleApp.dll
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\bin\Debug\net10.0\RoboTupiniquim.ConsoleApp.pdb
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.AssemblyInfo.cs
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.sourcelink.json
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.dll
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\refint\RoboTupiniquim.ConsoleApp.dll
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.pdb
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\RoboTupiniquim.ConsoleApp.genruntimeconfig.cache
+C:\Users\Slipk\Documents\CURSO\C#\ROBOTUPINIQUIM\RoboTupiniquim.ConsoleApp\obj\Debug\net10.0\ref\RoboTupiniquim.ConsoleApp.dll
